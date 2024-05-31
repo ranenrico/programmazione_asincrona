@@ -1,0 +1,20 @@
+[{
+    "taskText": "Task1",
+    "taskTextDate": "10/04/2024",
+    "taskArea": "office",
+    "lat": "45.2",
+    "lng": "75.5",
+    "taskCreationDate": "03/07/2024"
+},
+{
+    "taskText": "Task2",
+    "taskTextDate": "06/04/2024",
+    "taskArea": "fitness",
+    "taskCreationDate": "07/03/2023"
+},
+{
+    "taskText": "Task3",
+    "taskTextDate": "10/04/2024",
+    "taskArea": "mental"
+}
+]
